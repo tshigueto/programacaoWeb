@@ -9,6 +9,11 @@
     padding-bottom: 2rem;
 }
 
+.rodape__logo{
+    width: 100px;
+    height: 60px;
+}
+
 .rodape__social {
     display: flex;
 }
